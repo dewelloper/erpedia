@@ -1,0 +1,7 @@
+C:\Projects\Erpedia\Erpedia\ErpediaServices\bin\Debug\ErpediaServices.dll
+C:\Projects\Erpedia\Erpedia\ErpediaServices\bin\Debug\ErpediaServices.pdb
+C:\Projects\Erpedia\Erpedia\ErpediaServices\bin\Debug\ErpediaBusiness.dll
+C:\Projects\Erpedia\Erpedia\ErpediaServices\bin\Debug\ErpediaBusiness.pdb
+C:\Projects\Erpedia\Erpedia\ErpediaServices\obj\Debug\ErpediaServices.csprojResolveAssemblyReference.cache
+C:\Projects\Erpedia\Erpedia\ErpediaServices\obj\Debug\ErpediaServices.dll
+C:\Projects\Erpedia\Erpedia\ErpediaServices\obj\Debug\ErpediaServices.pdb

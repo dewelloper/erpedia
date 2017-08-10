@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Erpedia", "Erpedia\Erpedia.csproj", "{E115C60C-0E0C-42DF-83F7-6D1339B66A0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Erpedia.Services", "Erpedia.Services", "{DC0120E7-2143-42EC-8228-F20274BBD1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpediaServices", "ErpediaServices\ErpediaServices.csproj", "{A269FEA2-B41F-4766-A9EC-AED8B2DA5319}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Erpedia.BusinessObjects", "Erpedia.BusinessObjects", "{71EEF5AB-F6C6-463C-B02C-D78F9D934E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpediaBusiness", "ErpediaBusiness\ErpediaBusiness.csproj", "{8824B0AE-28FB-48FB-958D-0EF504F505AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Erpedia.Dal", "Erpedia.Dal", "{7ECD216F-797E-467A-AD18-CA446E00374C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpediaDal", "ErpediaDal\ErpediaDal.csproj", "{0B76F8E3-EB55-427A-81F5-0F2D1678E68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E115C60C-0E0C-42DF-83F7-6D1339B66A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E115C60C-0E0C-42DF-83F7-6D1339B66A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E115C60C-0E0C-42DF-83F7-6D1339B66A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E115C60C-0E0C-42DF-83F7-6D1339B66A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A269FEA2-B41F-4766-A9EC-AED8B2DA5319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A269FEA2-B41F-4766-A9EC-AED8B2DA5319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A269FEA2-B41F-4766-A9EC-AED8B2DA5319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A269FEA2-B41F-4766-A9EC-AED8B2DA5319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8824B0AE-28FB-48FB-958D-0EF504F505AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8824B0AE-28FB-48FB-958D-0EF504F505AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8824B0AE-28FB-48FB-958D-0EF504F505AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8824B0AE-28FB-48FB-958D-0EF504F505AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B76F8E3-EB55-427A-81F5-0F2D1678E68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B76F8E3-EB55-427A-81F5-0F2D1678E68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B76F8E3-EB55-427A-81F5-0F2D1678E68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B76F8E3-EB55-427A-81F5-0F2D1678E68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A269FEA2-B41F-4766-A9EC-AED8B2DA5319} = {DC0120E7-2143-42EC-8228-F20274BBD1EB}
+		{8824B0AE-28FB-48FB-958D-0EF504F505AE} = {71EEF5AB-F6C6-463C-B02C-D78F9D934E59}
+		{0B76F8E3-EB55-427A-81F5-0F2D1678E68D} = {7ECD216F-797E-467A-AD18-CA446E00374C}
+	EndGlobalSection
+EndGlobal

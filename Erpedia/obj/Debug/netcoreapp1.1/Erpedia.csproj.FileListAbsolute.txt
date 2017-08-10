@@ -1,0 +1,9 @@
+C:\Projects\Erpedia\Erpedia\Erpedia\bin\Debug\netcoreapp1.1\Erpedia.deps.json
+C:\Projects\Erpedia\Erpedia\Erpedia\bin\Debug\netcoreapp1.1\Erpedia.runtimeconfig.json
+C:\Projects\Erpedia\Erpedia\Erpedia\bin\Debug\netcoreapp1.1\Erpedia.runtimeconfig.dev.json
+C:\Projects\Erpedia\Erpedia\Erpedia\bin\Debug\netcoreapp1.1\Erpedia.dll
+C:\Projects\Erpedia\Erpedia\Erpedia\bin\Debug\netcoreapp1.1\Erpedia.pdb
+C:\Projects\Erpedia\Erpedia\Erpedia\obj\Debug\netcoreapp1.1\Erpedia.csprojResolveAssemblyReference.cache
+C:\Projects\Erpedia\Erpedia\Erpedia\obj\Debug\netcoreapp1.1\Erpedia.AssemblyInfo.cs
+C:\Projects\Erpedia\Erpedia\Erpedia\obj\Debug\netcoreapp1.1\Erpedia.dll
+C:\Projects\Erpedia\Erpedia\Erpedia\obj\Debug\netcoreapp1.1\Erpedia.pdb
